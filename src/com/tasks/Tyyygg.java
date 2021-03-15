@@ -15,6 +15,7 @@ public class Tyyygg {
 		
 		System.out.println("value of x:" + x);
 		System.out.println("value of y:" + y);
+		
 
 }
 }
